@@ -25,4 +25,4 @@ Topical Essay | 23rd April
 Take home exam essay | 30th April
 
 ### Screenshot
-
+![alt text](https://github.com/csci3251-2020/student-1155125534/blob/master/Screenshot.png)
