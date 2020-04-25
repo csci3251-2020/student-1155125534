@@ -1,7 +1,7 @@
 # CSCI 3251 PROJECT MILESTONE 2
 
 ### About Myself
-I am Cheng Ka Pui. You can call me ** Eugenie** .I am year 2 student, major in **CS**.I like coding and playing music.Hope I have time to play my instruments again.
+I am Cheng Ka Pui. You can call me **Eugenie** .I am year 2 student, major in **CS**.I like coding and playing music.Hope I have time to play my instruments again.
 
 ### Favourite band List
 - back number
